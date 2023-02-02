@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286173795812",
+    "project_id": "auth-app-6096c",
+    "storage_bucket": "auth-app-6096c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286173795812:android:cd29074b1e155dfd1de3f1",
+        "android_client_info": {
+          "package_name": "com.sobhan.flutter_auth_firebase_riverpod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286173795812-7noh2aro3r4lt8koj8ifbgptcu13khoj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYzqIB2tCrpnZokzjR1EodrU6freRI-xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286173795812-7noh2aro3r4lt8koj8ifbgptcu13khoj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286173795812-7134654m2147dtgj6m3bpn2fjp5p54s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuthFirebaseRiverpod"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
