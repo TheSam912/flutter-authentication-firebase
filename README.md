@@ -1,6 +1,7 @@
 # flutter_auth_firebase_riverpod
 
-A new Flutter project.
+A new Flutter authentication application using firebase with email verification.
+(State managment ==> Provider)
 
 ## Getting Started
 
